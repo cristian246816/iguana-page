@@ -1,0 +1,120 @@
+body { 
+     margin: 0px;
+} 
+
+header {
+    font-family: 'Raleway', sans-serif;
+    background-color: #000000;
+    width: 1280px;
+    height: 73px;
+}
+
+.titulo__principal {
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 0px;
+    padding-top: 7px;
+    font-weight: 500;
+}
+
+.portada {
+    height: 727px;
+}
+
+.section__1 {
+    width: 1280px;
+    height: 348px;
+    display: flex;
+    background-color: #000000;  
+}
+
+.parrafo {
+    font-family: 'Raleway', sans-serif;
+    width: 475px;
+    height: 197px;
+    margin-left: 150px;
+    color: #FFFFFF;
+    margin-top: 76px;
+    font-size: 16px;
+    font-weight: 300;   
+}
+
+.imagen {
+    margin-top: 45px;
+    padding-left: 106px;
+}
+
+.section__2 {
+    width: 1280px;
+    height: 348px;
+    background-color: #1E1A13;
+}
+
+.titulo__section__2 {
+    color: #FFFFFF;
+    font-size: 40px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 500;
+    margin-top: 0px;
+    padding-top: 75px;
+    text-align: center;
+}
+
+.texto__section__2 {
+    display: flex;
+    justify-content: center;
+}
+
+.iconos {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+i {
+    color: #FFFFFF;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+.parrafo__section__2 {
+    color: #FFFFFF;
+    font-size: 24px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+    margin-right: 35px;
+    margin-left: 75px;
+    margin-bottom: 74px;
+    
+}
+.section__imgs {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 348px;
+    width: 1280px;
+    background-color: #000000;
+}
+
+.lasiguanas {
+    height: 202px;
+    width: 316px;
+    margin: 8px;
+}
+
+footer {
+    font-family: 'Raleway', sans-serif;
+    background-color: #1E1A13;
+    height: 102px;
+    width: 1280px;
+}
+
+.texto__footer {
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 20px;
+    padding-top: 39px;
+    font-weight: 300;
+    margin-top: 0px;
+}
